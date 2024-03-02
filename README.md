@@ -19,7 +19,5 @@
 ![eclipse](	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![sd](https://github-readme-stats.vercel.app/api?username={sbj99}&theme=blue-green)
-![sss](https://github-readme-stats.vercel.app/api/top-langs/?username={ronaldo39@naver.com}&theme=blue-green)
-![repo](https://starchart.cc/{sbj07}/{repo}.svg)
+
 
