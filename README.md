@@ -3,4 +3,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
