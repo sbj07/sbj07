@@ -59,7 +59,7 @@
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=sbj07)
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<p>🏆 Baekjoon Rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdqudwn98)](https://solved.ac/tjdqudwn98)
 </div>
