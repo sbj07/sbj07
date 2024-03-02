@@ -17,3 +17,4 @@
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![sd](https://github-readme-stats.vercel.app/api?username={ronaldo39@naver.com}&theme=blue-green)
 ![sss](https://github-readme-stats.vercel.app/api/top-langs/?username={ronaldo39@naver.com}&theme=blue-green)
+![repo](https://starchart.cc/{sbj07}/{repo}.svg)
