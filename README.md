@@ -39,13 +39,13 @@
 </div>
 
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="[https://yermi.co.kr](https://www.notion.so/Sung-ByungJoo-66a034c4f98441bf8239edb683fee805)">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="https://www.notion.so/Sung-ByungJoo-66a034c4f98441bf8239edb683fee805">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<br>
