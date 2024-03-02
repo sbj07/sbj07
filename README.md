@@ -16,3 +16,4 @@
 ![eclipse](	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![sd](https://github-readme-stats.vercel.app/api?username={sbj07}&theme=blue-green)
+![sss](https://github-readme-stats.vercel.app/api/top-langs/?username={sbj07}&theme=blue-green)
