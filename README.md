@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
- welcome
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbj07)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbj07&hide=contribs,prs&show_icons=true&theme=테마)
 
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,5 +22,4 @@
 ![sd](https://github-readme-stats.vercel.app/api?username={ronaldo39@naver.com}&theme=blue-green)
 ![sss](https://github-readme-stats.vercel.app/api/top-langs/?username={ronaldo39@naver.com}&theme=blue-green)
 ![repo](https://starchart.cc/{sbj07}/{repo}.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbj07)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbj07&hide=contribs,prs&show_icons=true&theme=테마)
+
