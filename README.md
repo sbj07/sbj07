@@ -7,9 +7,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbj07)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbj07&hide=contribs,prs&show_icons=true&theme=테마)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sbj07)](https://git.io/streak-stats)
+
 
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,5 +24,7 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbj07)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbj07&hide=contribs,prs&show_icons=true&theme=테마)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sbj07)](https://git.io/streak-stats)
 
